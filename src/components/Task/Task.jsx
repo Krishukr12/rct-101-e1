@@ -1,6 +1,6 @@
 import React from "react";
 import styles from "./task.module.css";
-
+import Counter from "../Counter/Counter";
 const Task = () => {
   // NOTE: do not delete `data-cy` key value pair
   return (
@@ -8,6 +8,7 @@ const Task = () => {
       <input type="checkbox" data-cy="task-checkbox" />
       <div data-cy="task-text"></div>
       {/* Counter here */}
+      <Counter/>
       <button data-cy="task-remove-button"></button>
     </li>
   );

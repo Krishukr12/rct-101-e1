@@ -1,3 +1,15 @@
 .addTask {
   /* Sample */
+  
+}
+.todoForm>input{
+  height: 50px;
+  width: 90%;
+  /* border: 1px solid red; */
+}
+.todoForm>button{
+  height: 50px;
+  width: 10%;
+  /* border: 1px solid red; */
+  font-size: 20px;
 }
