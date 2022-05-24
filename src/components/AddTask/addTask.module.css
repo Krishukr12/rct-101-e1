@@ -5,6 +5,8 @@
 .todoForm>input{
   height: 50px;
   width: 90%;
+  font-size: 20px;
+  color:black;
   /* border: 1px solid red; */
 }
 .todoForm>button{
@@ -12,4 +14,9 @@
   width: 10%;
   /* border: 1px solid red; */
   font-size: 20px;
+}
+.todoForm{
+  /* border: 1px solid red; */
+  margin-top: -5px;
+  height: 30px;
 }

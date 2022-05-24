@@ -1,8 +1,10 @@
 .taskHeader {
   /* Sample */
   border: 1px solid rgb(237, 231, 231);
-  height: 200px;
+  height: 150px;
   width: 100%;
   text-align: center;
-  background-color: rgb(46,137,170);
+  background: linear-gradient(90deg, #00C9FF 0%, #92FE9D 100%);
+  color: white;
+  font-size: 20px;
 }

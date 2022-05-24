@@ -1,7 +1,9 @@
 .taskApp {
   /* Sample */
   margin: auto;
-  border: 1px solid red;
-  height: 600px;
+  /* border: 1px solid red; */
+  height: 700px;
   width: 450px;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  border-radius: 15px;
 }
